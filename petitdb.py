@@ -16,7 +16,7 @@ __version__ = '1.2'
 ########################
 
 class DBError(Exception):
-	"""Base error"""
+    """Base error"""
     pass
 
 
